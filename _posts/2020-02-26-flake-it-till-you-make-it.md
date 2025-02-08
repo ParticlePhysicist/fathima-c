@@ -1,6 +1,6 @@
 ---
 layout: post
-title: About Myself
+title: post
 subtitle: Excerpt from Soulshaping by Jeff Brown
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
