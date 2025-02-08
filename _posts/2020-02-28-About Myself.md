@@ -2,6 +2,7 @@
 title: About Myself
 
 I am Fathima C, a final year BS-MS student at Indian Institute of Science Education and Research Mohali.I am Majoring in Physics with a minor in Data Science. Currently I am pursuing my thesis under the guidance of Dr. Prafulla Kumar Behera at the Indian Institute of Technology, Madras.
+---
 
 **Here is some bold text**
 
@@ -20,7 +21,7 @@ Here's a table:
 
 You can use [MathJax](https://www.mathjax.org/) to write LaTeX expressions. For example:
 When \\(a \ne 0\\), there are two solutions to \\(ax^2 + bx + c = 0\\) and they are $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
----
+
 How about a yummy crepe?
 
 ![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg)
