@@ -40,8 +40,7 @@ layout: page
       {% endif %}
 
       <div class="blog-post">
-        {{ content }}
-        <a href="https://example.com">Test Link</a>
+        {{ content | markdownify }}
       </div>
 
       {% if page.tags.size > 0 %}
