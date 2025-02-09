@@ -1,6 +1,5 @@
 ---
-layout: page
-<!--title: post -->
+layout: none
 title: Research Interests
 
 ---
