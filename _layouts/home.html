@@ -38,7 +38,7 @@ layout: page
 
      <!-- <a href="{{ post.url | absolute_url }}">
         <h2 class="post-title">{{ post.title | strip_html }}</h2> -->
-      <h2 class="post-title">{{ post.title | strip_html }}</h2>
+      <h2 class="post-title">{{ post.title | markdownify }}</h2>
 
 
         {% if post.subtitle %}
