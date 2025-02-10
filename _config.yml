@@ -20,8 +20,11 @@ title: Fathima Chemmangath
 ###############################################
 
 navbar-links:
-  About Me: "Master's Student at IISER Mohali"
+  #About Me: "Master's Student at IISER Mohali"
+  About Me: "/about-me" 
   Resources:
+  - Beautiful Jekyll: "https://beautifuljekyll.com"
+  - Learn markdown: "https://www.markdowntutorial.com/"
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
  #   - Learn markdown: "https://www.markdowntutorial.com/"
   #Author's home: "https://deanattali.com"
@@ -41,6 +44,8 @@ round-avatar: true
 # then specify the following parameter
 #title-img: /path/to/image
 
+url: "https://<your-github-username>.github.io"
+baseurl: "/my-site"
 
 #####################################
 # --- Footer social media links --- #
